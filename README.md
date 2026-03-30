@@ -1,26 +1,34 @@
-# OSS Audit Project
+# Open Source Audit - OSS Capstone Project
 
-Name: Prateeksha Singh  
-Software: Git  
+## Student Details
 
-## Scripts
+* Name: Prateeksha Singh
+* Registration Number: 24Bec10075
 
-### Script 1
-Displays system information.
 
-### Script 2
-Checks Git installation.
+## Project Overview
 
-### Script 3
-Audits directories and permissions.
+This project is an Open Source Audit report based on Python. It covers:
 
-### Script 4
-Analyzes log files.
+* Origin and philosophy of open source software
+* Licensing and ethical considerations
+* Linux footprint and ecosystem
+* Comparison with proprietary software
+* Shell scripting tasks
 
-### Script 5
-Generates open source manifesto.
+## Scripts Included
 
-## How to Run
+* Script 1: System Identity Report
+* Script 2: FOSS Package Inspector
+* Script 3: Disk and Permission Auditor
+* Script 4: Log File Analyzer
+* Script 5: Open Source Manifesto Generator
 
-chmod +x script.sh  
-./script.sh
+## Repository Contents
+
+* Report PDF
+* Shell scripts (.sh files)
+
+## Software Used
+
+* Python (Open Source)
