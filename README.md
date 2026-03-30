@@ -3,7 +3,7 @@
 ## Student Details
 
 * Name: Prateeksha Singh
-* Registration Number: 24Bec10075
+* Registration Number: 24BEC10075
 
 
 ## Project Overview
