@@ -31,4 +31,4 @@ This project is an Open Source Audit report based on Python. It covers:
 
 ## Software Used
 
-* Python (Open Source)
+* Git (Open Source)
